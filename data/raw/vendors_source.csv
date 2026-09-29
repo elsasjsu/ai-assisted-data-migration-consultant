@@ -1,0 +1,503 @@
+VENDOR_ID,VENDOR_NAME,COUNTRY,POSTAL_CODE,EMAIL,PAYMENT_TERMS,CREATED_DATE
+VEND00001,Vendor 1,India,80804,vendor1@example.com,NET45,2023-04-17
+VEND00002,Vendor 2,India,30253,vendor2@example.com,NET45,2023-09-03
+VEND00003,Vendor 3,USA,74139,vendor3@example.com,NET60,2022-04-15
+VEND00004,Vendor 4,United States,14288,vendor4@example.com,NET60,2022-01-28
+VEND00005,Vendor 5,US,68115,vendor5@example.com,NET45,2021-04-28
+VEND00006,Vendor 6,IN,57537,vendor6@example.com,NET30,2023-11-05
+VEND00007,Vendor 7,United States,81364,vendor7@example.com,NET60,2022-01-04
+VEND00008,Vendor 8,USA,62184,vendor8@example.com,NET45,2021-01-23
+,Vendor 9,USA,69600,vendor9@example.com,NET30,2023-09-19
+VEND00010,Vendor 10,US,94109,vendor10@example.com,NET60,2023-05-07
+VEND00011,Vendor 11,USA,16629,vendor11@example.com,NET45,2021-05-13
+VEND00012,Vendor 12,US,84000,vendor12@example.com,NET30,2020-05-20
+VEND00013,Vendor 13,IN,82641,vendor-invalid,NET30,2023-04-15
+VEND00014,Vendor 14,US,40539,vendor14@example.com,NET45,2020-10-29
+VEND00015,Vendor 15,IN,88116,vendor15@example.com,NET30,2021-07-21
+VEND00016,Vendor 16,IN,28964,vendor16@example.com,NET30,2023-01-11
+VEND00017,Vendor 17,United States,32871,vendor17@example.com,NET30,2023-09-15
+VEND00018,Vendor 18,IN,13379,vendor18@example.com,NET30,2020-01-31
+VEND00019,Vendor 19,United States,,vendor19@example.com,NET60,2021-10-25
+VEND00020,Vendor 20,USA,32838,vendor20@example.com,NET45,2020-04-17
+VEND00021,Vendor 21,US,65176,vendor21@example.com,NET60,2020-08-20
+VEND00022,Vendor 22,India,18330,vendor22@example.com,NET45,2022-07-07
+VEND00023,Vendor 23,IN,57453,vendor23@example.com,,2023-04-30
+VEND00024,Vendor 24,USA,69245,vendor24@example.com,NET60,2021-03-29
+VEND00025,Vendor 25,DE,15683,vendor25@example.com,NET60,2023-09-11
+VEND00026,Vendor 26,DE,49535,vendor26@example.com,NET45,2023-08-10
+VEND00027,Vendor 27,USA,17972,vendor27@example.com,NET45,2022-04-02
+VEND00028,Vendor 28,Germany,99928,vendor28@example.com,NET30,2022-10-01
+VEND00029, Vendor 28 ,India,68138,vendor29@example.com,NET30,2020-06-14
+VEND00030,Vendor 30,United States,89730,vendor30@example.com,NET30,2020-05-14
+VEND00031,Vendor 31,US,46046,vendor31@example.com,NET60,2023-07-20
+VEND00032,Vendor 32,DE,81874,vendor32@example.com,NET60,2021-10-27
+VEND00033,Vendor 33,Germany,88301,vendor33@example.com,NET60,2021-08-26
+VEND00034,Vendor 34,Germany,76263,vendor34@example.com,NET60,2022-05-31
+VEND00035,Vendor 35,USA,24996,vendor35@example.com,NET60,2023-08-26
+VEND00036,Vendor 36,IN,82264,vendor36@example.com,NET60,2024/04/15
+VEND00037,Vendor 37,Germany,69186,vendor37@example.com,NET30,2022-04-27
+VEND00038,Vendor 38,United States,69441,vendor38@example.com,NET45,2022-05-01
+VEND00039,Vendor 39,India,22463,vendor39@example.com,NET45,2022-05-24
+VEND00040,Vendor 40,United States,97177,vendor40@example.com,NET45,2022-02-05
+VEND00041,Vendor 41,US,72163,vendor41@example.com,NET30,2020-07-05
+VEND00042,Vendor 42,IN,21188,vendor42@example.com,NET30,2022-06-03
+VEND00043,Vendor 43,USA,58843,vendor43@example.com,NET30,2023-02-13
+VEND00044,Vendor 44,USA,86869,vendor44@example.com,NET60,2023-02-24
+VEND00045,Vendor 45,United States,97819,vendor45@example.com,NET30,2022-04-21
+VEND00046,Vendor 46,United States,97207,vendor46@example.com,NET45,2024-01-16
+VEND00047,Vendor 47,USA,47700,vendor47@example.com,NET60,2021-10-01
+VEND00048,Vendor 48,United States,23579,vendor48@example.com,NET60,2022-11-05
+VEND00049,Vendor 49,US,30280,vendor49@example.com,NET60,2022-09-14
+VEND00050,Vendor 50,US,24184,vendor50@example.com,NET45,2023-02-13
+VEND00051,Vendor 51,United States,25058,vendor51@example.com,NET45,2023-03-21
+VEND00052,Vendor 52,US,66244,vendor52@example.com,NET60,2023-06-27
+VEND00053,Vendor 53,DE,98470,vendor53@example.com,NET60,2023-02-14
+VEND00054,Vendor 54,USA,89822,vendor54@example.com,NET60,2023-11-21
+VEND00055,Vendor 55,United States,13794,vendor55@example.com,NET30,2021-07-13
+VEND00056,Vendor 56,India,50499,vendor56@example.com,NET45,2021-12-19
+VEND00057,Vendor 57,USA,33777,vendor57@example.com,NET30,2023-03-05
+VEND00058,Vendor 58,India,62531,vendor58@example.com,NET30,2020-10-17
+VEND00059,Vendor 59,India,92991,vendor59@example.com,NET30,2020-07-06
+VEND00060,Vendor 60,India,79531,vendor60@example.com,NET30,2022-02-09
+VEND00061,Vendor 61,Germany,69460,vendor61@example.com,NET45,2020-11-18
+VEND00062,Vendor 62,United States,50846,vendor62@example.com,NET60,2021-10-26
+VEND00063,Vendor 63,IN,84395,vendor63@example.com,NET60,2020-06-22
+VEND00064,Vendor 64,USA,30392,vendor64@example.com,NET30,2023-06-19
+VEND00065,Vendor 65,USA,98338,vendor65@example.com,NET30,2021-07-11
+VEND00066,Vendor 66,Germany,96761,vendor66@example.com,NET45,2022-09-21
+VEND00067,Vendor 67,DE,67939,vendor67@example.com,NET45,2021-07-13
+VEND00068,Vendor 68,US,77154,vendor68@example.com,NET30,2021-12-07
+VEND00069,Vendor 69,Germany,24534,vendor69@example.com,NET45,2023-10-20
+VEND00070,Vendor 70,India,87743,vendor70@example.com,NET45,2022-12-15
+VEND00071,Vendor 71,India,50425,vendor71@example.com,NET30,2021-03-27
+VEND00072,Vendor 72,Germany,88554,vendor72@example.com,NET30,2020-01-16
+VEND00073,Vendor 73,US,49507,vendor73@example.com,NET30,2020-10-08
+VEND00074,Vendor 74,IN,43491,vendor74@example.com,NET45,2021-11-02
+VEND00075,Vendor 75,USA,11013,vendor75@example.com,NET45,2022-05-31
+VEND00076,Vendor 76,US,26932,vendor76@example.com,NET45,2022-12-26
+VEND00077,Vendor 77,India,40161,vendor77@example.com,NET60,2023-02-18
+VEND00078,Vendor 78,IN,97562,vendor78@example.com,NET45,2020-05-27
+VEND00079,Vendor 79,Germany,15544,vendor79@example.com,NET45,2020-02-08
+VEND00080,Vendor 80,Germany,20205,vendor80@example.com,NET45,2023-03-25
+VEND00081,Vendor 81,Germany,85156,vendor81@example.com,NET45,2023-12-24
+VEND00082,Vendor 82,India,64747,vendor82@example.com,NET45,2020-08-23
+VEND00083,Vendor 83,Germany,12733,vendor83@example.com,NET45,2020-12-17
+VEND00084,Vendor 84,IN,91018,vendor84@example.com,NET45,2023-11-13
+VEND00085,Vendor 85,United States,21551,vendor85@example.com,NET45,2020-08-04
+VEND00086,Vendor 86,US,67104,vendor86@example.com,NET60,2022-03-31
+VEND00087,Vendor 87,DE,20308,vendor87@example.com,NET45,2021-09-27
+VEND00088,Vendor 88,India,54500,vendor88@example.com,NET30,2021-11-13
+VEND00089,Vendor 89,IN,32037,vendor89@example.com,NET30,2022-11-11
+VEND00090,Vendor 90,India,24945,vendor90@example.com,NET60,2022-11-10
+VEND00091,Vendor 91,US,55793,vendor91@example.com,NET45,2024-01-29
+VEND00092,Vendor 92,IN,94599,vendor92@example.com,NET30,2021-04-28
+VEND00093,Vendor 93,USA,29194,vendor93@example.com,NET45,2021-02-08
+VEND00094,Vendor 94,US,88957,vendor94@example.com,NET30,2023-09-04
+VEND00095,Vendor 95,USA,33218,vendor95@example.com,NET60,2022-10-08
+VEND00096,Vendor 96,Germany,83889,vendor96@example.com,NET60,2022-07-08
+VEND00097,Vendor 97,India,83989,vendor97@example.com,NET60,2023-07-25
+VEND00098,Vendor 98,DE,52363,vendor98@example.com,NET60,2021-10-09
+VEND00099,Vendor 99,US,67640,vendor99@example.com,NET30,2022-08-18
+VEND00100,Vendor 100,Germany,92756,vendor100@example.com,NET45,2021-07-16
+VEND00101,Vendor 101,DE,17362,vendor101@example.com,NET45,2022-11-05
+VEND00102,Vendor 102,USA,50685,vendor102@example.com,NET45,2022-07-14
+VEND00103,Vendor 103,USA,17456,vendor103@example.com,NET45,2021-08-10
+VEND00104,Vendor 104,USA,94497,vendor104@example.com,NET30,2023-06-13
+VEND00105,Vendor 105,DE,76462,vendor105@example.com,NET45,2022-08-05
+VEND00106,Vendor 106,DE,82655,vendor106@example.com,NET60,2020-03-25
+VEND00107,Vendor 107,Germany,84928,vendor107@example.com,NET60,2021-01-20
+VEND00108,Vendor 108,United States,89299,vendor108@example.com,NET45,2022-10-23
+VEND00109,Vendor 109,US,18109,vendor109@example.com,NET45,2020-07-30
+VEND00110,Vendor 110,IN,55015,vendor110@example.com,NET60,2020-06-21
+VEND00111,Vendor 111,DE,94689,vendor111@example.com,NET30,2020-03-21
+VEND00112,Vendor 112,US,67377,vendor112@example.com,NET45,2022-12-09
+VEND00113,Vendor 113,DE,89928,vendor113@example.com,NET30,2022-01-15
+VEND00114,Vendor 114,United States,47079,vendor114@example.com,NET45,2022-04-17
+VEND00115,Vendor 115,IN,54350,vendor115@example.com,NET60,2023-05-09
+VEND00116,Vendor 116,USA,92691,vendor116@example.com,NET60,2021-11-16
+VEND00117,Vendor 117,USA,53213,vendor117@example.com,NET30,2023-02-16
+VEND00118,Vendor 118,India,60667,vendor118@example.com,NET45,2021-05-31
+VEND00119,Vendor 119,India,96057,vendor119@example.com,NET60,2020-11-03
+VEND00120,Vendor 120,United States,20682,vendor120@example.com,NET60,2023-09-21
+VEND00121,Vendor 121,US,55851,vendor121@example.com,NET45,2023-09-05
+VEND00122,Vendor 122,India,96787,vendor122@example.com,NET45,2020-09-21
+VEND00123,Vendor 123,DE,21104,vendor123@example.com,NET45,2023-02-18
+VEND00124,Vendor 124,Germany,94343,vendor124@example.com,NET45,2020-09-18
+VEND00125,Vendor 125,India,99838,vendor125@example.com,NET60,2020-07-10
+VEND00126,Vendor 126,India,97878,vendor126@example.com,NET45,2022-11-07
+VEND00127,Vendor 127,United States,12389,vendor127@example.com,NET45,2021-09-24
+VEND00128,Vendor 128,US,38074,vendor128@example.com,NET45,2022-09-22
+VEND00129,Vendor 129,US,39693,vendor129@example.com,NET30,2020-11-13
+VEND00130,Vendor 130,USA,48770,vendor130@example.com,NET30,2022-11-05
+VEND00131,Vendor 131,IN,80748,vendor131@example.com,NET60,2022-12-14
+VEND00132,Vendor 132,USA,96760,vendor132@example.com,NET45,2023-06-19
+VEND00133,Vendor 133,US,88282,vendor133@example.com,NET45,2020-11-11
+VEND00134,Vendor 134,US,33703,vendor134@example.com,NET60,2023-07-03
+VEND00135,Vendor 135,IN,31697,vendor135@example.com,NET60,2022-06-15
+VEND00136,Vendor 136,USA,63852,vendor136@example.com,NET45,2023-10-17
+VEND00137,Vendor 137,India,41133,vendor137@example.com,NET45,2023-06-04
+VEND00138,Vendor 138,United States,68841,vendor138@example.com,NET30,2022-12-29
+VEND00139,Vendor 139,US,50562,vendor139@example.com,NET45,2021-02-01
+VEND00140,Vendor 140,United States,98907,vendor140@example.com,NET60,2022-06-21
+VEND00141,Vendor 141,Germany,46932,vendor141@example.com,NET45,2022-10-26
+VEND00142,Vendor 142,DE,64874,vendor142@example.com,NET30,2021-02-12
+VEND00143,Vendor 143,IN,89254,vendor143@example.com,NET30,2021-05-27
+VEND00144,Vendor 144,USA,94040,vendor144@example.com,NET45,2022-01-30
+VEND00145,Vendor 145,DE,23446,vendor145@example.com,NET60,2022-11-22
+VEND00146,Vendor 146,IN,26341,vendor146@example.com,NET45,2020-06-20
+VEND00147,Vendor 147,IN,31012,vendor147@example.com,NET45,2022-07-09
+VEND00148,Vendor 148,DE,29313,vendor148@example.com,NET45,2020-07-06
+VEND00149,Vendor 149,US,69130,vendor149@example.com,NET45,2020-02-24
+VEND00150,Vendor 150,Germany,16980,vendor150@example.com,NET45,2022-10-25
+VEND00151,Vendor 151,United States,40903,vendor151@example.com,NET45,2020-06-16
+VEND00152,Vendor 152,United States,39430,vendor152@example.com,NET30,2021-10-14
+VEND00153,Vendor 153,USA,95191,vendor153@example.com,NET45,2020-10-26
+VEND00154,Vendor 154,US,15020,vendor154@example.com,NET45,2022-08-25
+VEND00155,Vendor 155,India,28191,vendor155@example.com,NET60,2022-08-18
+VEND00156,Vendor 156,Germany,90654,vendor156@example.com,NET30,2020-06-11
+VEND00157,Vendor 157,USA,43544,vendor157@example.com,NET30,2020-11-02
+VEND00158,Vendor 158,DE,89807,vendor158@example.com,NET60,2022-05-16
+VEND00159,Vendor 159,USA,47762,vendor159@example.com,NET30,2021-09-08
+VEND00160,Vendor 160,USA,16258,vendor160@example.com,NET30,2022-05-09
+VEND00161,Vendor 161,India,91633,vendor161@example.com,NET45,2020-05-08
+VEND00162,Vendor 162,USA,75513,vendor162@example.com,NET60,2023-01-02
+VEND00163,Vendor 163,USA,92831,vendor163@example.com,NET60,2023-03-23
+VEND00164,Vendor 164,US,28818,vendor164@example.com,NET45,2022-05-29
+VEND00165,Vendor 165,USA,90584,vendor165@example.com,NET45,2021-05-07
+VEND00166,Vendor 166,DE,64600,vendor166@example.com,NET30,2023-09-22
+VEND00167,Vendor 167,India,21221,vendor167@example.com,NET60,2022-01-08
+VEND00168,Vendor 168,USA,78951,vendor168@example.com,NET60,2022-11-05
+VEND00169,Vendor 169,IN,76535,vendor169@example.com,NET60,2020-02-11
+VEND00170,Vendor 170,Germany,71621,vendor170@example.com,NET30,2023-07-25
+VEND00171,Vendor 171,Germany,58929,vendor171@example.com,NET45,2020-02-03
+VEND00172,Vendor 172,United States,18855,vendor172@example.com,NET45,2021-05-08
+VEND00173,Vendor 173,India,96127,vendor173@example.com,NET60,2020-07-31
+VEND00174,Vendor 174,IN,86271,vendor174@example.com,NET60,2021-11-11
+VEND00175,Vendor 175,US,15811,vendor175@example.com,NET45,2023-01-23
+VEND00176,Vendor 176,United States,94252,vendor176@example.com,NET30,2023-11-03
+VEND00177,Vendor 177,Germany,72722,vendor177@example.com,NET60,2021-01-08
+VEND00178,Vendor 178,IN,27675,vendor178@example.com,NET30,2024-01-06
+VEND00179,Vendor 179,IN,69988,vendor179@example.com,NET30,2021-08-23
+VEND00180,Vendor 180,US,15741,vendor180@example.com,NET30,2020-03-26
+VEND00181,Vendor 181,United States,50642,vendor181@example.com,NET60,2022-03-26
+VEND00182,Vendor 182,IN,81176,vendor182@example.com,NET45,2021-06-02
+VEND00183,Vendor 183,USA,94790,vendor183@example.com,NET30,2021-08-08
+VEND00184,Vendor 184,United States,16265,vendor184@example.com,NET60,2021-11-10
+VEND00185,Vendor 185,United States,26315,vendor185@example.com,NET45,2022-06-13
+VEND00186,Vendor 186,Germany,67637,vendor186@example.com,NET45,2021-11-25
+VEND00187,Vendor 187,US,75038,vendor187@example.com,NET60,2022-10-15
+VEND00188,Vendor 188,United States,78062,vendor188@example.com,NET45,2020-06-18
+VEND00189,Vendor 189,India,65640,vendor189@example.com,NET30,2022-05-31
+VEND00190,Vendor 190,DE,33652,vendor190@example.com,NET60,2021-08-24
+VEND00191,Vendor 191,United States,23447,vendor191@example.com,NET30,2021-11-02
+VEND00192,Vendor 192,India,48750,vendor192@example.com,NET45,2022-07-02
+VEND00193,Vendor 193,DE,65851,vendor193@example.com,NET30,2023-11-13
+VEND00194,Vendor 194,Germany,56077,vendor194@example.com,NET45,2020-03-27
+VEND00195,Vendor 195,India,56210,vendor195@example.com,NET60,2022-06-09
+VEND00196,Vendor 196,United States,93816,vendor196@example.com,NET30,2020-06-02
+VEND00197,Vendor 197,India,93560,vendor197@example.com,NET45,2022-01-14
+VEND00198,Vendor 198,DE,99051,vendor198@example.com,NET30,2020-03-04
+VEND00199,Vendor 199,US,89635,vendor199@example.com,NET60,2022-06-16
+VEND00200,Vendor 200,USA,26545,vendor200@example.com,NET30,2021-04-28
+VEND00201,Vendor 201,IN,94562,vendor201@example.com,NET45,2022-01-11
+VEND00202,Vendor 202,Germany,84349,vendor202@example.com,NET30,2023-05-24
+VEND00203,Vendor 203,US,99006,vendor203@example.com,NET45,2022-01-29
+VEND00204,Vendor 204,United States,68188,vendor204@example.com,NET30,2023-03-21
+VEND00205,Vendor 205,US,79397,vendor205@example.com,NET45,2022-03-26
+VEND00206,Vendor 206,United States,95139,vendor206@example.com,NET45,2021-05-26
+VEND00207,Vendor 207,USA,13396,vendor207@example.com,NET60,2021-01-16
+VEND00208,Vendor 208,Germany,77861,vendor208@example.com,NET45,2023-02-24
+VEND00209,Vendor 209,USA,44311,vendor209@example.com,NET45,2023-12-12
+VEND00210,Vendor 210,Germany,38124,vendor210@example.com,NET60,2021-08-07
+VEND00211,Vendor 211,India,74382,vendor211@example.com,NET30,2020-09-08
+VEND00212,Vendor 212,US,19706,vendor212@example.com,NET45,2020-12-19
+VEND00213,Vendor 213,India,68341,vendor213@example.com,NET30,2023-10-28
+VEND00214,Vendor 214,IN,51889,vendor214@example.com,NET60,2021-12-12
+VEND00215,Vendor 215,India,18511,vendor215@example.com,NET60,2023-01-15
+VEND00216,Vendor 216,United States,49315,vendor216@example.com,NET30,2023-12-28
+VEND00217,Vendor 217,India,93584,vendor217@example.com,NET30,2022-01-10
+VEND00218,Vendor 218,DE,39391,vendor218@example.com,NET30,2021-02-15
+VEND00219,Vendor 219,IN,28202,vendor219@example.com,NET30,2022-10-08
+VEND00220,Vendor 220,USA,57303,vendor220@example.com,NET60,2023-03-18
+VEND00221,Vendor 221,United States,71263,vendor221@example.com,NET60,2020-09-22
+VEND00222,Vendor 222,DE,21300,vendor222@example.com,NET30,2021-09-25
+VEND00223,Vendor 223,Germany,72739,vendor223@example.com,NET60,2022-04-21
+VEND00224,Vendor 224,IN,63665,vendor224@example.com,NET60,2020-05-31
+VEND00225,Vendor 225,US,51553,vendor225@example.com,NET60,2020-05-31
+VEND00226,Vendor 226,Germany,71057,vendor226@example.com,NET60,2022-11-25
+VEND00227,Vendor 227,United States,26821,vendor227@example.com,NET60,2023-08-03
+VEND00228,Vendor 228,DE,33850,vendor228@example.com,NET30,2022-06-05
+VEND00229,Vendor 229,DE,17263,vendor229@example.com,NET30,2022-11-27
+VEND00230,Vendor 230,US,49862,vendor230@example.com,NET30,2020-11-27
+VEND00231,Vendor 231,United States,39552,vendor231@example.com,NET45,2022-11-28
+VEND00232,Vendor 232,United States,20336,vendor232@example.com,NET45,2021-02-06
+VEND00233,Vendor 233,India,82199,vendor233@example.com,NET45,2020-09-13
+VEND00234,Vendor 234,India,49691,vendor234@example.com,NET60,2022-12-28
+VEND00235,Vendor 235,USA,75873,vendor235@example.com,NET60,2020-12-11
+VEND00236,Vendor 236,DE,86106,vendor236@example.com,NET30,2020-12-16
+VEND00237,Vendor 237,India,91851,vendor237@example.com,NET60,2023-05-24
+VEND00238,Vendor 238,United States,83874,vendor238@example.com,NET30,2020-02-28
+VEND00239,Vendor 239,USA,15958,vendor239@example.com,NET60,2023-03-27
+VEND00240,Vendor 240,United States,95344,vendor240@example.com,NET30,2023-03-17
+VEND00241,Vendor 241,Germany,91016,vendor241@example.com,NET60,2020-03-03
+VEND00242,Vendor 242,Germany,92203,vendor242@example.com,NET60,2021-08-16
+VEND00243,Vendor 243,India,49596,vendor243@example.com,NET45,2021-05-16
+VEND00244,Vendor 244,IN,99783,vendor244@example.com,NET45,2021-09-01
+VEND00245,Vendor 245,Germany,19564,vendor245@example.com,NET60,2020-05-02
+VEND00246,Vendor 246,US,67619,vendor246@example.com,NET45,2022-09-18
+VEND00247,Vendor 247,Germany,36741,vendor247@example.com,NET45,2023-05-27
+VEND00248,Vendor 248,US,50970,vendor248@example.com,NET60,2021-10-15
+VEND00249,Vendor 249,India,55268,vendor249@example.com,NET45,2020-09-24
+VEND00250,Vendor 250,IN,58567,vendor250@example.com,NET60,2023-02-24
+VEND00251,Vendor 251,USA,51827,vendor251@example.com,NET30,2022-08-13
+VEND00252,Vendor 252,USA,45058,vendor252@example.com,NET45,2021-05-22
+VEND00253,Vendor 253,US,22689,vendor253@example.com,NET30,2021-08-17
+VEND00254,Vendor 254,Germany,90658,vendor254@example.com,NET45,2021-05-23
+VEND00255,Vendor 255,IN,30932,vendor255@example.com,NET45,2023-03-29
+VEND00256,Vendor 256,India,50988,vendor256@example.com,NET30,2020-11-22
+VEND00257,Vendor 257,Germany,77466,vendor257@example.com,NET45,2022-10-18
+VEND00258,Vendor 258,United States,75191,vendor258@example.com,NET30,2020-07-03
+VEND00259,Vendor 259,Germany,76249,vendor259@example.com,NET45,2021-05-08
+VEND00260,Vendor 260,US,86460,vendor260@example.com,NET45,2020-04-09
+VEND00261,Vendor 261,USA,46877,vendor261@example.com,NET45,2023-05-08
+VEND00262,Vendor 262,IN,95755,vendor262@example.com,NET60,2022-08-21
+VEND00263,Vendor 263,United States,80345,vendor263@example.com,NET30,2020-08-08
+VEND00264,Vendor 264,Germany,27555,vendor264@example.com,NET45,2024-01-29
+VEND00265,Vendor 265,United States,62855,vendor265@example.com,NET45,2020-04-02
+VEND00266,Vendor 266,Germany,16705,vendor266@example.com,NET60,2023-02-24
+VEND00267,Vendor 267,US,57516,vendor267@example.com,NET60,2021-08-14
+VEND00268,Vendor 268,USA,60639,vendor268@example.com,NET60,2022-07-11
+VEND00269,Vendor 269,IN,82070,vendor269@example.com,NET45,2023-06-30
+VEND00270,Vendor 270,India,90090,vendor270@example.com,NET30,2020-09-20
+VEND00271,Vendor 271,USA,61629,vendor271@example.com,NET45,2021-11-25
+VEND00272,Vendor 272,DE,57920,vendor272@example.com,NET30,2021-02-11
+VEND00273,Vendor 273,DE,76731,vendor273@example.com,NET45,2022-10-21
+VEND00274,Vendor 274,USA,15938,vendor274@example.com,NET30,2020-10-07
+VEND00275,Vendor 275,India,53652,vendor275@example.com,NET45,2022-11-29
+VEND00276,Vendor 276,Germany,29521,vendor276@example.com,NET60,2022-11-21
+VEND00277,Vendor 277,US,52987,vendor277@example.com,NET60,2021-10-14
+VEND00278,Vendor 278,US,61505,vendor278@example.com,NET60,2021-09-04
+VEND00279,Vendor 279,DE,54089,vendor279@example.com,NET60,2022-11-09
+VEND00280,Vendor 280,DE,74205,vendor280@example.com,NET60,2023-02-26
+VEND00281,Vendor 281,United States,72245,vendor281@example.com,NET30,2022-01-24
+VEND00282,Vendor 282,United States,98317,vendor282@example.com,NET30,2022-05-03
+VEND00283,Vendor 283,DE,50327,vendor283@example.com,NET60,2023-11-10
+VEND00284,Vendor 284,India,13492,vendor284@example.com,NET60,2022-08-29
+VEND00285,Vendor 285,United States,95929,vendor285@example.com,NET60,2023-03-28
+VEND00286,Vendor 286,US,16731,vendor286@example.com,NET60,2022-09-10
+VEND00287,Vendor 287,US,78712,vendor287@example.com,NET60,2024-01-16
+VEND00288,Vendor 288,DE,59832,vendor288@example.com,NET30,2023-10-26
+VEND00289,Vendor 289,US,14138,vendor289@example.com,NET60,2023-12-05
+VEND00290,Vendor 290,USA,35006,vendor290@example.com,NET30,2022-06-22
+VEND00291,Vendor 291,United States,64890,vendor291@example.com,NET30,2022-04-25
+VEND00292,Vendor 292,India,36724,vendor292@example.com,NET45,2022-10-24
+VEND00293,Vendor 293,IN,90147,vendor293@example.com,NET45,2024-01-29
+VEND00294,Vendor 294,USA,28098,vendor294@example.com,NET60,2021-02-28
+VEND00295,Vendor 295,DE,52604,vendor295@example.com,NET60,2022-09-06
+VEND00296,Vendor 296,DE,59391,vendor296@example.com,NET45,2020-12-20
+VEND00297,Vendor 297,Germany,79878,vendor297@example.com,NET45,2023-01-23
+VEND00298,Vendor 298,United States,98587,vendor298@example.com,NET60,2023-10-26
+VEND00299,Vendor 299,India,44650,vendor299@example.com,NET60,2022-09-18
+VEND00300,Vendor 300,US,42311,vendor300@example.com,NET45,2023-02-16
+VEND00301,Vendor 301,United States,39473,vendor301@example.com,NET45,2021-08-14
+VEND00302,Vendor 302,India,37168,vendor302@example.com,NET60,2023-12-14
+VEND00303,Vendor 303,Germany,51555,vendor303@example.com,NET45,2021-12-15
+VEND00304,Vendor 304,DE,45842,vendor304@example.com,NET45,2020-09-06
+VEND00305,Vendor 305,DE,98686,vendor305@example.com,NET60,2022-02-16
+VEND00306,Vendor 306,Germany,55237,vendor306@example.com,NET30,2021-08-17
+VEND00307,Vendor 307,USA,47700,vendor307@example.com,NET60,2020-06-10
+VEND00308,Vendor 308,United States,67983,vendor308@example.com,NET60,2021-06-09
+VEND00309,Vendor 309,India,72793,vendor309@example.com,NET30,2021-02-17
+VEND00310,Vendor 310,IN,80592,vendor310@example.com,NET45,2023-02-25
+VEND00311,Vendor 311,India,45601,vendor311@example.com,NET30,2020-08-11
+VEND00312,Vendor 312,DE,86917,vendor312@example.com,NET30,2021-05-11
+VEND00313,Vendor 313,USA,97796,vendor313@example.com,NET60,2021-04-07
+VEND00314,Vendor 314,India,40518,vendor314@example.com,NET30,2020-07-24
+VEND00315,Vendor 315,Germany,53292,vendor315@example.com,NET60,2022-08-25
+VEND00316,Vendor 316,USA,99285,vendor316@example.com,NET30,2020-01-11
+VEND00317,Vendor 317,DE,30701,vendor317@example.com,NET45,2023-08-30
+VEND00318,Vendor 318,Germany,72580,vendor318@example.com,NET60,2021-02-12
+VEND00319,Vendor 319,IN,47649,vendor319@example.com,NET45,2021-08-07
+VEND00320,Vendor 320,India,17754,vendor320@example.com,NET30,2023-08-28
+VEND00321,Vendor 321,DE,40437,vendor321@example.com,NET60,2024-01-20
+VEND00322,Vendor 322,IN,14888,vendor322@example.com,NET30,2022-05-05
+VEND00323,Vendor 323,IN,33040,vendor323@example.com,NET30,2022-03-24
+VEND00324,Vendor 324,IN,74930,vendor324@example.com,NET30,2021-08-15
+VEND00325,Vendor 325,USA,11214,vendor325@example.com,NET45,2023-03-09
+VEND00326,Vendor 326,DE,24064,vendor326@example.com,NET45,2021-08-05
+VEND00327,Vendor 327,Germany,94058,vendor327@example.com,NET60,2022-12-09
+VEND00328,Vendor 328,Germany,27589,vendor328@example.com,NET60,2022-08-16
+VEND00329,Vendor 329,United States,35272,vendor329@example.com,NET30,2021-11-08
+VEND00330,Vendor 330,US,70150,vendor330@example.com,NET60,2021-06-10
+VEND00331,Vendor 331,India,34405,vendor331@example.com,NET30,2021-11-21
+VEND00332,Vendor 332,IN,48669,vendor332@example.com,NET60,2023-10-13
+VEND00333,Vendor 333,IN,35318,vendor333@example.com,NET30,2023-06-05
+VEND00334,Vendor 334,IN,93719,vendor334@example.com,NET45,2022-05-25
+VEND00335,Vendor 335,DE,52982,vendor335@example.com,NET30,2022-03-31
+VEND00336,Vendor 336,India,22502,vendor336@example.com,NET30,2020-10-14
+VEND00337,Vendor 337,Germany,52415,vendor337@example.com,NET30,2020-01-14
+VEND00338,Vendor 338,United States,60275,vendor338@example.com,NET30,2022-07-03
+VEND00339,Vendor 339,IN,44995,vendor339@example.com,NET45,2021-09-10
+VEND00340,Vendor 340,DE,85088,vendor340@example.com,NET30,2021-06-19
+VEND00341,Vendor 341,India,57127,vendor341@example.com,NET60,2021-04-28
+VEND00342,Vendor 342,USA,97528,vendor342@example.com,NET30,2022-08-11
+VEND00343,Vendor 343,United States,30934,vendor343@example.com,NET45,2023-11-06
+VEND00344,Vendor 344,DE,50760,vendor344@example.com,NET60,2020-08-28
+VEND00345,Vendor 345,India,48671,vendor345@example.com,NET45,2023-06-12
+VEND00346,Vendor 346,US,38721,vendor346@example.com,NET30,2022-09-06
+VEND00347,Vendor 347,US,69634,vendor347@example.com,NET60,2023-05-25
+VEND00348,Vendor 348,United States,64505,vendor348@example.com,NET60,2023-01-29
+VEND00349,Vendor 349,Germany,80453,vendor349@example.com,NET60,2021-03-23
+VEND00350,Vendor 350,IN,42435,vendor350@example.com,NET60,2023-05-05
+VEND00351,Vendor 351,IN,20730,vendor351@example.com,NET60,2022-07-03
+VEND00352,Vendor 352,DE,57419,vendor352@example.com,NET30,2023-03-01
+VEND00353,Vendor 353,USA,18094,vendor353@example.com,NET60,2022-11-01
+VEND00354,Vendor 354,US,85065,vendor354@example.com,NET60,2020-11-02
+VEND00355,Vendor 355,US,53007,vendor355@example.com,NET60,2022-06-23
+VEND00356,Vendor 356,USA,99167,vendor356@example.com,NET30,2024-01-08
+VEND00357,Vendor 357,DE,74071,vendor357@example.com,NET30,2022-11-11
+VEND00358,Vendor 358,Germany,17292,vendor358@example.com,NET45,2020-09-27
+VEND00359,Vendor 359,DE,64450,vendor359@example.com,NET45,2023-02-28
+VEND00360,Vendor 360,USA,83242,vendor360@example.com,NET45,2023-10-09
+VEND00361,Vendor 361,IN,50392,vendor361@example.com,NET60,2020-02-14
+VEND00362,Vendor 362,Germany,43352,vendor362@example.com,NET30,2021-03-22
+VEND00363,Vendor 363,DE,19572,vendor363@example.com,NET30,2022-05-17
+VEND00364,Vendor 364,United States,18357,vendor364@example.com,NET60,2020-05-03
+VEND00365,Vendor 365,USA,71875,vendor365@example.com,NET30,2021-08-10
+VEND00366,Vendor 366,Germany,33590,vendor366@example.com,NET30,2023-08-06
+VEND00367,Vendor 367,India,94656,vendor367@example.com,NET45,2022-02-05
+VEND00368,Vendor 368,Germany,68790,vendor368@example.com,NET45,2022-02-08
+VEND00369,Vendor 369,USA,99486,vendor369@example.com,NET60,2023-01-09
+VEND00370,Vendor 370,US,95660,vendor370@example.com,NET45,2020-08-30
+VEND00371,Vendor 371,US,80419,vendor371@example.com,NET45,2022-12-19
+VEND00372,Vendor 372,US,39188,vendor372@example.com,NET30,2020-02-16
+VEND00373,Vendor 373,United States,70686,vendor373@example.com,NET60,2024-01-12
+VEND00374,Vendor 374,DE,65591,vendor374@example.com,NET60,2022-02-15
+VEND00375,Vendor 375,IN,40102,vendor375@example.com,NET30,2022-08-01
+VEND00376,Vendor 376,United States,30332,vendor376@example.com,NET45,2021-01-21
+VEND00377,Vendor 377,India,24790,vendor377@example.com,NET30,2023-09-14
+VEND00378,Vendor 378,Germany,90599,vendor378@example.com,NET30,2021-05-07
+VEND00379,Vendor 379,US,18819,vendor379@example.com,NET30,2023-05-01
+VEND00380,Vendor 380,USA,68515,vendor380@example.com,NET60,2023-10-08
+VEND00381,Vendor 381,India,16380,vendor381@example.com,NET30,2020-03-31
+VEND00382,Vendor 382,Germany,67535,vendor382@example.com,NET30,2023-01-10
+VEND00383,Vendor 383,US,17398,vendor383@example.com,NET30,2022-10-28
+VEND00384,Vendor 384,United States,40692,vendor384@example.com,NET60,2023-03-25
+VEND00385,Vendor 385,United States,85690,vendor385@example.com,NET60,2023-10-09
+VEND00386,Vendor 386,IN,52030,vendor386@example.com,NET30,2021-09-10
+VEND00387,Vendor 387,US,96535,vendor387@example.com,NET60,2021-03-28
+VEND00388,Vendor 388,Germany,49387,vendor388@example.com,NET45,2020-05-04
+VEND00389,Vendor 389,DE,87550,vendor389@example.com,NET60,2020-12-24
+VEND00390,Vendor 390,India,98965,vendor390@example.com,NET45,2023-02-12
+VEND00391,Vendor 391,Germany,16145,vendor391@example.com,NET45,2023-08-10
+VEND00392,Vendor 392,India,59958,vendor392@example.com,NET60,2021-10-14
+VEND00393,Vendor 393,India,64568,vendor393@example.com,NET45,2020-11-01
+VEND00394,Vendor 394,United States,59343,vendor394@example.com,NET30,2023-01-06
+VEND00395,Vendor 395,Germany,41584,vendor395@example.com,NET30,2021-09-07
+VEND00396,Vendor 396,IN,28920,vendor396@example.com,NET45,2020-04-28
+VEND00397,Vendor 397,DE,64090,vendor397@example.com,NET45,2023-02-15
+VEND00398,Vendor 398,DE,27575,vendor398@example.com,NET45,2021-05-12
+VEND00399,Vendor 399,United States,36651,vendor399@example.com,NET45,2023-08-17
+VEND00400,Vendor 400,USA,68954,vendor400@example.com,NET45,2020-07-08
+VEND00401,Vendor 401,DE,34966,vendor401@example.com,NET30,2021-07-03
+VEND00402,Vendor 402,Germany,98299,vendor402@example.com,NET60,2023-05-19
+VEND00403,Vendor 403,USA,19539,vendor403@example.com,NET30,2023-04-18
+VEND00404,Vendor 404,India,98008,vendor404@example.com,NET60,2021-03-20
+VEND00405,Vendor 405,Germany,37379,vendor405@example.com,NET45,2021-09-12
+VEND00406,Vendor 406,USA,37762,vendor406@example.com,NET30,2020-08-28
+VEND00407,Vendor 407,India,72773,vendor407@example.com,NET30,2023-11-25
+VEND00408,Vendor 408,DE,36805,vendor408@example.com,NET45,2021-05-05
+VEND00409,Vendor 409,DE,52154,vendor409@example.com,NET45,2022-02-18
+VEND00410,Vendor 410,Germany,79946,vendor410@example.com,NET60,2022-01-05
+VEND00411,Vendor 411,United States,44283,vendor411@example.com,NET45,2022-11-16
+VEND00412,Vendor 412,Germany,71080,vendor412@example.com,NET30,2024-01-19
+VEND00413,Vendor 413,Germany,51973,vendor413@example.com,NET30,2022-01-29
+VEND00414,Vendor 414,United States,64254,vendor414@example.com,NET30,2023-02-26
+VEND00415,Vendor 415,IN,39002,vendor415@example.com,NET60,2020-10-25
+VEND00416,Vendor 416,USA,44180,vendor416@example.com,NET60,2023-04-11
+VEND00417,Vendor 417,DE,64732,vendor417@example.com,NET45,2020-11-08
+VEND00418,Vendor 418,US,53236,vendor418@example.com,NET30,2022-02-16
+VEND00419,Vendor 419,DE,42208,vendor419@example.com,NET45,2023-02-01
+VEND00420,Vendor 420,India,99764,vendor420@example.com,NET45,2021-06-11
+VEND00421,Vendor 421,IN,74044,vendor421@example.com,NET60,2023-08-07
+VEND00422,Vendor 422,India,74303,vendor422@example.com,NET45,2020-12-10
+VEND00423,Vendor 423,India,56160,vendor423@example.com,NET30,2020-10-13
+VEND00424,Vendor 424,India,81636,vendor424@example.com,NET45,2021-01-11
+VEND00425,Vendor 425,DE,94123,vendor425@example.com,NET30,2022-12-09
+VEND00426,Vendor 426,USA,19742,vendor426@example.com,NET60,2020-04-09
+VEND00427,Vendor 427,IN,10836,vendor427@example.com,NET45,2020-10-08
+VEND00428,Vendor 428,IN,92667,vendor428@example.com,NET30,2020-05-19
+VEND00429,Vendor 429,India,29795,vendor429@example.com,NET30,2021-03-23
+VEND00430,Vendor 430,DE,69770,vendor430@example.com,NET45,2020-05-03
+VEND00431,Vendor 431,DE,93588,vendor431@example.com,NET60,2023-06-16
+VEND00432,Vendor 432,Germany,96413,vendor432@example.com,NET45,2020-02-02
+VEND00433,Vendor 433,USA,79758,vendor433@example.com,NET60,2022-04-22
+VEND00434,Vendor 434,USA,12192,vendor434@example.com,NET60,2024-01-19
+VEND00435,Vendor 435,United States,80220,vendor435@example.com,NET45,2020-02-05
+VEND00436,Vendor 436,DE,98346,vendor436@example.com,NET45,2021-01-02
+VEND00437,Vendor 437,USA,22624,vendor437@example.com,NET60,2020-10-31
+VEND00438,Vendor 438,US,35156,vendor438@example.com,NET60,2022-12-14
+VEND00439,Vendor 439,United States,56457,vendor439@example.com,NET45,2022-03-23
+VEND00440,Vendor 440,USA,58896,vendor440@example.com,NET45,2022-07-29
+VEND00441,Vendor 441,DE,41877,vendor441@example.com,NET60,2021-04-07
+VEND00442,Vendor 442,United States,99658,vendor442@example.com,NET30,2023-08-31
+VEND00443,Vendor 443,IN,95182,vendor443@example.com,NET30,2020-07-10
+VEND00444,Vendor 444,Germany,59710,vendor444@example.com,NET45,2023-02-05
+VEND00445,Vendor 445,Germany,17355,vendor445@example.com,NET60,2020-01-20
+VEND00446,Vendor 446,India,32463,vendor446@example.com,NET30,2022-10-20
+VEND00447,Vendor 447,IN,66873,vendor447@example.com,NET60,2021-11-09
+VEND00448,Vendor 448,DE,22499,vendor448@example.com,NET60,2020-03-28
+VEND00449,Vendor 449,US,37710,vendor449@example.com,NET60,2023-03-06
+VEND00450,Vendor 450,Germany,45532,vendor450@example.com,NET30,2020-06-01
+VEND00451,Vendor 451,India,46749,vendor451@example.com,NET60,2023-02-28
+VEND00452,Vendor 452,India,14312,vendor452@example.com,NET30,2021-10-06
+VEND00453,Vendor 453,USA,37152,vendor453@example.com,NET60,2020-10-22
+VEND00454,Vendor 454,IN,62205,vendor454@example.com,NET30,2021-09-04
+VEND00455,Vendor 455,US,83919,vendor455@example.com,NET30,2023-03-06
+VEND00456,Vendor 456,IN,61007,vendor456@example.com,NET60,2023-01-12
+VEND00457,Vendor 457,United States,60311,vendor457@example.com,NET60,2020-10-13
+VEND00458,Vendor 458,IN,20279,vendor458@example.com,NET60,2021-12-09
+VEND00459,Vendor 459,USA,22803,vendor459@example.com,NET45,2021-04-20
+VEND00460,Vendor 460,IN,19963,vendor460@example.com,NET45,2023-05-24
+VEND00461,Vendor 461,IN,90460,vendor461@example.com,NET60,2022-03-23
+VEND00462,Vendor 462,IN,52778,vendor462@example.com,NET30,2023-07-22
+VEND00463,Vendor 463,United States,69054,vendor463@example.com,NET45,2021-04-12
+VEND00464,Vendor 464,United States,82487,vendor464@example.com,NET45,2022-06-03
+VEND00465,Vendor 465,US,99088,vendor465@example.com,NET60,2023-09-15
+VEND00466,Vendor 466,Germany,21232,vendor466@example.com,NET60,2021-08-27
+VEND00467,Vendor 467,IN,42302,vendor467@example.com,NET60,2020-05-30
+VEND00468,Vendor 468,USA,45123,vendor468@example.com,NET30,2022-02-17
+VEND00469,Vendor 469,India,93086,vendor469@example.com,NET30,2022-03-08
+VEND00470,Vendor 470,United States,57277,vendor470@example.com,NET30,2020-07-06
+VEND00471,Vendor 471,USA,50405,vendor471@example.com,NET45,2022-01-07
+VEND00472,Vendor 472,IN,45358,vendor472@example.com,NET30,2020-09-28
+VEND00473,Vendor 473,USA,34561,vendor473@example.com,NET45,2022-07-08
+VEND00474,Vendor 474,DE,82710,vendor474@example.com,NET60,2022-04-15
+VEND00475,Vendor 475,USA,13442,vendor475@example.com,NET30,2021-12-25
+VEND00476,Vendor 476,DE,22198,vendor476@example.com,NET60,2023-05-09
+VEND00477,Vendor 477,IN,52523,vendor477@example.com,NET45,2020-01-26
+VEND00478,Vendor 478,United States,64238,vendor478@example.com,NET45,2020-06-22
+VEND00479,Vendor 479,India,83339,vendor479@example.com,NET30,2023-03-17
+VEND00480,Vendor 480,DE,32227,vendor480@example.com,NET60,2022-02-18
+VEND00481,Vendor 481,US,28198,vendor481@example.com,NET45,2021-09-08
+VEND00482,Vendor 482,United States,74634,vendor482@example.com,NET30,2020-05-09
+VEND00483,Vendor 483,US,66973,vendor483@example.com,NET45,2022-05-12
+VEND00484,Vendor 484,United States,73469,vendor484@example.com,NET30,2022-01-09
+VEND00485,Vendor 485,United States,42321,vendor485@example.com,NET60,2023-07-04
+VEND00486,Vendor 486,Germany,87831,vendor486@example.com,NET60,2021-02-04
+VEND00487,Vendor 487,Germany,24021,vendor487@example.com,NET30,2021-09-15
+VEND00488,Vendor 488,USA,61864,vendor488@example.com,NET45,2023-06-24
+VEND00489,Vendor 489,Germany,53193,vendor489@example.com,NET45,2021-11-16
+VEND00490,Vendor 490,Germany,95332,vendor490@example.com,NET60,2020-10-05
+VEND00491,Vendor 491,United States,52030,vendor491@example.com,NET60,2023-11-24
+VEND00492,Vendor 492,US,72784,vendor492@example.com,NET45,2020-12-29
+VEND00493,Vendor 493,Germany,51830,vendor493@example.com,NET45,2023-11-24
+VEND00494,Vendor 494,India,74357,vendor494@example.com,NET60,2021-05-11
+VEND00495,Vendor 495,United States,59290,vendor495@example.com,NET45,2022-03-15
+VEND00496,Vendor 496,United States,24927,vendor496@example.com,NET60,2021-02-13
+VEND00497,Vendor 497,DE,81516,vendor497@example.com,NET30,2023-10-28
+VEND00498,Vendor 498,IN,82102,vendor498@example.com,NET30,2024-01-29
+VEND00499,Vendor 499,Germany,37479,vendor499@example.com,NET45,2021-08-19
+VEND00500,Vendor 500,IN,19064,vendor500@example.com,NET45,2023-10-10
+VEND00041,Vendor 41,US,72163,vendor41@example.com,NET30,2020-07-05
+VEND00042,Vendor 42,IN,21188,vendor42@example.com,NET30,2022-06-03

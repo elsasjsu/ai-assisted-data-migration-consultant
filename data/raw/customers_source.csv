@@ -1,0 +1,503 @@
+CUSTOMER_ID,CUSTOMER_NAME,COUNTRY,POSTAL_CODE,EMAIL,CREATED_DATE
+CUST00001,Customer 1,India,24592,customer1@example.com,2020-02-21
+CUST00002,Customer 2,India,46048,customer2@example.com,2021-05-16
+CUST00003,Customer 3,US,28289,customer3@example.com,2020-07-28
+CUST00004,Customer 4,India,81482,customer4@example.com,2020-06-27
+CUST00005,Customer 5,CA,65302,customer5@example.com,2020-03-06
+,Customer 6,USA,22280,customer6@example.com,2021-03-23
+CUST00007,Customer 7,US,76237,customer7@example.com,2023-05-17
+CUST00008,Customer 8,USA,83563,customer8@example.com,2021-02-11
+CUST00009,Customer 9,India,95181,customer9@example.com,2023-12-07
+CUST00010,Customer 10,CA,64987,customer10@example.com,2021-03-27
+CUST00011,Customer 11,Canada,87236,invalid-email,2021-07-23
+CUST00012,Customer 12,IN,10851,customer12@example.com,2020-11-22
+CUST00013,Customer 13,India,65392,customer13@example.com,2021-11-27
+CUST00014,Customer 14,United States,30379,customer14@example.com,2021-03-16
+CUST00015,Customer 15,IN,54118,customer15@example.com,2020-07-28
+CUST00016,Customer 16,USA,,customer16@example.com,2020-07-17
+CUST00017,Customer 17,United States,55082,customer17@example.com,2023-05-21
+CUST00018,Customer 18,United States,15695,customer18@example.com,2024-02-03
+CUST00019,Customer 19,Canada,80284,customer19@example.com,2020-09-12
+CUST00020,Customer 20,Canada,20328,customer20@example.com,2023-02-04
+CUST00021,  Customer 20  ,United States,92397,customer21@example.com,2023-06-20
+CUST00022,Customer 22,IN,57400,customer22@example.com,2023-03-28
+CUST00023,Customer 23,US,19116,customer23@example.com,2020-04-03
+CUST00024,Customer 24,India,39871,customer24@example.com,2021-08-15
+CUST00025,Customer 25,USA,40512,customer25@example.com,2020-07-25
+CUST00026,Customer 26,Canada,46434,customer26@example.com,03/25/2024
+CUST00027,Customer 27,India,57819,customer27@example.com,2020-11-29
+CUST00028,Customer 28,United States,56566,customer28@example.com,2021-03-05
+CUST00029,Customer 29,India,44993,customer29@example.com,2023-12-08
+CUST00030,Customer 30,India,94939,customer30@example.com,2020-05-26
+CUST00031,Customer 31,CA,93227,customer31@example.com,2020-12-16
+CUST00032,Customer 32,CA,42087,customer32@example.com,2020-11-30
+CUST00033,Customer 33,Canada,59735,customer33@example.com,2021-07-06
+CUST00034,Customer 34,India,83000,customer34@example.com,2021-03-25
+CUST00035,Customer 35,India,52504,customer35@example.com,2020-04-24
+CUST00036,Customer 36,US,14207,customer36@example.com,2021-10-08
+CUST00037,Customer 37,Canada,45093,customer37@example.com,2020-05-15
+CUST00038,Customer 38,US,84341,customer38@example.com,2024-01-10
+CUST00039,Customer 39,United States,37869,customer39@example.com,2023-09-04
+CUST00040,Customer 40,Canada,61856,customer40@example.com,2023-08-09
+CUST00041,Customer 41,Canada,28726,customer41@example.com,2021-06-26
+CUST00042,Customer 42,US,42325,customer42@example.com,2023-02-23
+CUST00043,Customer 43,CA,44438,customer43@example.com,2023-04-12
+CUST00044,Customer 44,Canada,86484,customer44@example.com,2022-03-28
+CUST00045,Customer 45,United States,38746,customer45@example.com,2020-10-10
+CUST00046,Customer 46,CA,74686,customer46@example.com,2020-07-05
+CUST00047,Customer 47,IN,16175,customer47@example.com,2020-08-12
+CUST00048,Customer 48,US,92240,customer48@example.com,2020-11-23
+CUST00049,Customer 49,IN,99192,customer49@example.com,2022-05-14
+CUST00050,Customer 50,CA,18326,customer50@example.com,2022-02-27
+CUST00051,Customer 51,Canada,88104,customer51@example.com,2022-08-16
+CUST00052,Customer 52,CA,42953,customer52@example.com,2023-02-07
+CUST00053,Customer 53,IN,11504,customer53@example.com,2023-10-25
+CUST00054,Customer 54,India,25014,customer54@example.com,2023-10-28
+CUST00055,Customer 55,CA,44973,customer55@example.com,2023-08-05
+CUST00056,Customer 56,United States,24621,customer56@example.com,2021-08-24
+CUST00057,Customer 57,Canada,30730,customer57@example.com,2022-07-18
+CUST00058,Customer 58,USA,44522,customer58@example.com,2022-10-22
+CUST00059,Customer 59,IN,33416,customer59@example.com,2022-11-05
+CUST00060,Customer 60,USA,91959,customer60@example.com,2021-09-03
+CUST00061,Customer 61,IN,93748,customer61@example.com,2022-11-05
+CUST00062,Customer 62,CA,36071,customer62@example.com,2020-11-09
+CUST00063,Customer 63,United States,31174,customer63@example.com,2023-01-09
+CUST00064,Customer 64,IN,79514,customer64@example.com,2020-01-02
+CUST00065,Customer 65,CA,52487,customer65@example.com,2022-09-27
+CUST00066,Customer 66,USA,24662,customer66@example.com,2022-01-13
+CUST00067,Customer 67,IN,50306,customer67@example.com,2021-05-05
+CUST00068,Customer 68,USA,41571,customer68@example.com,2023-03-07
+CUST00069,Customer 69,USA,21226,customer69@example.com,2024-02-07
+CUST00070,Customer 70,Canada,19071,customer70@example.com,2022-12-26
+CUST00071,Customer 71,IN,26483,customer71@example.com,2020-09-19
+CUST00072,Customer 72,India,72296,customer72@example.com,2023-01-30
+CUST00073,Customer 73,US,44741,customer73@example.com,2022-12-16
+CUST00074,Customer 74,IN,89507,customer74@example.com,2022-05-16
+CUST00075,Customer 75,US,80686,customer75@example.com,2024-02-03
+CUST00076,Customer 76,India,36365,customer76@example.com,2023-12-31
+CUST00077,Customer 77,United States,62296,customer77@example.com,2023-10-07
+CUST00078,Customer 78,India,58944,customer78@example.com,2022-06-16
+CUST00079,Customer 79,CA,69177,customer79@example.com,2020-09-04
+CUST00080,Customer 80,US,39451,customer80@example.com,2020-05-11
+CUST00081,Customer 81,United States,12757,customer81@example.com,2023-04-19
+CUST00082,Customer 82,CA,40161,customer82@example.com,2023-04-20
+CUST00083,Customer 83,US,10942,customer83@example.com,2020-05-25
+CUST00084,Customer 84,India,92719,customer84@example.com,2020-04-30
+CUST00085,Customer 85,US,18834,customer85@example.com,2020-03-05
+CUST00086,Customer 86,IN,53309,customer86@example.com,2020-05-25
+CUST00087,Customer 87,CA,41195,customer87@example.com,2021-07-24
+CUST00088,Customer 88,India,73624,customer88@example.com,2021-03-14
+CUST00089,Customer 89,CA,27342,customer89@example.com,2024-01-21
+CUST00090,Customer 90,CA,85525,customer90@example.com,2022-08-26
+CUST00091,Customer 91,US,71993,customer91@example.com,2022-04-13
+CUST00092,Customer 92,US,22363,customer92@example.com,2020-07-17
+CUST00093,Customer 93,India,66498,customer93@example.com,2021-12-26
+CUST00094,Customer 94,Canada,63883,customer94@example.com,2022-08-14
+CUST00095,Customer 95,IN,17100,customer95@example.com,2023-10-11
+CUST00096,Customer 96,India,94696,customer96@example.com,2020-07-20
+CUST00097,Customer 97,USA,62772,customer97@example.com,2024-01-31
+CUST00098,Customer 98,United States,24322,customer98@example.com,2021-05-24
+CUST00099,Customer 99,US,34931,customer99@example.com,2023-01-03
+CUST00100,Customer 100,Canada,28373,customer100@example.com,2022-05-14
+CUST00101,Customer 101,US,46509,customer101@example.com,2022-08-05
+CUST00102,Customer 102,US,19880,customer102@example.com,2022-06-26
+CUST00103,Customer 103,IN,82132,customer103@example.com,2020-07-19
+CUST00104,Customer 104,USA,95477,customer104@example.com,2023-01-12
+CUST00105,Customer 105,IN,11934,customer105@example.com,2020-07-10
+CUST00106,Customer 106,IN,40982,customer106@example.com,2020-12-06
+CUST00107,Customer 107,Canada,73653,customer107@example.com,2022-09-12
+CUST00108,Customer 108,US,62565,customer108@example.com,2020-04-30
+CUST00109,Customer 109,US,59672,customer109@example.com,2020-01-05
+CUST00110,Customer 110,Canada,44760,customer110@example.com,2022-07-20
+CUST00111,Customer 111,United States,65444,customer111@example.com,2023-11-27
+CUST00112,Customer 112,India,82845,customer112@example.com,2023-09-17
+CUST00113,Customer 113,India,73788,customer113@example.com,2020-11-13
+CUST00114,Customer 114,US,48890,customer114@example.com,2021-03-21
+CUST00115,Customer 115,USA,85914,customer115@example.com,2023-01-15
+CUST00116,Customer 116,USA,51104,customer116@example.com,2020-04-27
+CUST00117,Customer 117,USA,86569,customer117@example.com,2022-09-03
+CUST00118,Customer 118,CA,79615,customer118@example.com,2020-11-18
+CUST00119,Customer 119,USA,76562,customer119@example.com,2020-06-13
+CUST00120,Customer 120,IN,34356,customer120@example.com,2020-05-20
+CUST00121,Customer 121,CA,18907,customer121@example.com,2023-10-14
+CUST00122,Customer 122,IN,40828,customer122@example.com,2022-04-06
+CUST00123,Customer 123,USA,84668,customer123@example.com,2021-05-19
+CUST00124,Customer 124,CA,87924,customer124@example.com,2020-03-22
+CUST00125,Customer 125,CA,20745,customer125@example.com,2022-05-08
+CUST00126,Customer 126,India,86503,customer126@example.com,2023-03-03
+CUST00127,Customer 127,CA,51467,customer127@example.com,2021-06-18
+CUST00128,Customer 128,US,97782,customer128@example.com,2024-01-06
+CUST00129,Customer 129,United States,41285,customer129@example.com,2021-06-27
+CUST00130,Customer 130,Canada,27154,customer130@example.com,2023-10-07
+CUST00131,Customer 131,India,49321,customer131@example.com,2022-07-25
+CUST00132,Customer 132,United States,19508,customer132@example.com,2020-01-20
+CUST00133,Customer 133,Canada,91416,customer133@example.com,2023-02-27
+CUST00134,Customer 134,USA,19602,customer134@example.com,2023-01-06
+CUST00135,Customer 135,US,76307,customer135@example.com,2021-06-27
+CUST00136,Customer 136,US,55745,customer136@example.com,2020-05-20
+CUST00137,Customer 137,US,58434,customer137@example.com,2021-08-06
+CUST00138,Customer 138,US,67433,customer138@example.com,2023-01-17
+CUST00139,Customer 139,India,49651,customer139@example.com,2023-06-06
+CUST00140,Customer 140,IN,95717,customer140@example.com,2022-12-19
+CUST00141,Customer 141,USA,97538,customer141@example.com,2023-02-09
+CUST00142,Customer 142,United States,96951,customer142@example.com,2020-07-31
+CUST00143,Customer 143,US,44664,customer143@example.com,2020-08-24
+CUST00144,Customer 144,USA,82512,customer144@example.com,2020-11-14
+CUST00145,Customer 145,United States,46930,customer145@example.com,2023-05-23
+CUST00146,Customer 146,US,54942,customer146@example.com,2021-02-20
+CUST00147,Customer 147,India,93130,customer147@example.com,2021-06-24
+CUST00148,Customer 148,CA,74032,customer148@example.com,2021-05-29
+CUST00149,Customer 149,IN,16658,customer149@example.com,2020-07-08
+CUST00150,Customer 150,India,65518,customer150@example.com,2021-07-20
+CUST00151,Customer 151,USA,10464,customer151@example.com,2021-11-14
+CUST00152,Customer 152,IN,27146,customer152@example.com,2023-07-28
+CUST00153,Customer 153,United States,31178,customer153@example.com,2022-06-23
+CUST00154,Customer 154,CA,66057,customer154@example.com,2023-02-22
+CUST00155,Customer 155,USA,24663,customer155@example.com,2020-06-03
+CUST00156,Customer 156,India,29536,customer156@example.com,2023-01-22
+CUST00157,Customer 157,USA,58393,customer157@example.com,2023-04-07
+CUST00158,Customer 158,CA,29410,customer158@example.com,2022-05-30
+CUST00159,Customer 159,US,15482,customer159@example.com,2021-09-23
+CUST00160,Customer 160,United States,15229,customer160@example.com,2022-01-02
+CUST00161,Customer 161,US,99399,customer161@example.com,2021-05-26
+CUST00162,Customer 162,India,23473,customer162@example.com,2021-12-25
+CUST00163,Customer 163,IN,83385,customer163@example.com,2022-04-12
+CUST00164,Customer 164,CA,30257,customer164@example.com,2021-04-29
+CUST00165,Customer 165,IN,31299,customer165@example.com,2020-12-28
+CUST00166,Customer 166,Canada,13248,customer166@example.com,2021-01-02
+CUST00167,Customer 167,India,53540,customer167@example.com,2022-04-23
+CUST00168,Customer 168,IN,97806,customer168@example.com,2021-05-23
+CUST00169,Customer 169,United States,30866,customer169@example.com,2023-12-07
+CUST00170,Customer 170,USA,60140,customer170@example.com,2020-03-20
+CUST00171,Customer 171,IN,71694,customer171@example.com,2021-03-31
+CUST00172,Customer 172,US,70332,customer172@example.com,2021-12-17
+CUST00173,Customer 173,United States,39831,customer173@example.com,2021-04-01
+CUST00174,Customer 174,USA,96511,customer174@example.com,2021-01-30
+CUST00175,Customer 175,Canada,53025,customer175@example.com,2021-07-24
+CUST00176,Customer 176,IN,19099,customer176@example.com,2021-07-25
+CUST00177,Customer 177,United States,94080,customer177@example.com,2022-11-09
+CUST00178,Customer 178,Canada,99065,customer178@example.com,2023-01-03
+CUST00179,Customer 179,United States,13617,customer179@example.com,2020-08-24
+CUST00180,Customer 180,United States,33405,customer180@example.com,2023-04-04
+CUST00181,Customer 181,United States,15014,customer181@example.com,2020-08-10
+CUST00182,Customer 182,CA,66959,customer182@example.com,2021-12-08
+CUST00183,Customer 183,India,51114,customer183@example.com,2022-06-12
+CUST00184,Customer 184,CA,77033,customer184@example.com,2020-08-24
+CUST00185,Customer 185,Canada,85574,customer185@example.com,2021-01-24
+CUST00186,Customer 186,United States,15817,customer186@example.com,2023-12-22
+CUST00187,Customer 187,Canada,10221,customer187@example.com,2022-11-30
+CUST00188,Customer 188,IN,80575,customer188@example.com,2023-11-07
+CUST00189,Customer 189,India,97900,customer189@example.com,2021-02-07
+CUST00190,Customer 190,United States,66531,customer190@example.com,2020-05-23
+CUST00191,Customer 191,India,53279,customer191@example.com,2023-06-30
+CUST00192,Customer 192,United States,96951,customer192@example.com,2020-09-12
+CUST00193,Customer 193,India,49363,customer193@example.com,2022-11-04
+CUST00194,Customer 194,United States,97410,customer194@example.com,2022-04-16
+CUST00195,Customer 195,United States,62743,customer195@example.com,2023-11-28
+CUST00196,Customer 196,United States,82667,customer196@example.com,2020-09-17
+CUST00197,Customer 197,US,65108,customer197@example.com,2023-09-23
+CUST00198,Customer 198,Canada,98777,customer198@example.com,2020-12-22
+CUST00199,Customer 199,CA,84593,customer199@example.com,2021-09-08
+CUST00200,Customer 200,Canada,81819,customer200@example.com,2020-01-01
+CUST00201,Customer 201,United States,47606,customer201@example.com,2021-03-06
+CUST00202,Customer 202,Canada,86019,customer202@example.com,2023-05-27
+CUST00203,Customer 203,India,52237,customer203@example.com,2022-08-10
+CUST00204,Customer 204,Canada,67954,customer204@example.com,2023-10-15
+CUST00205,Customer 205,US,77000,customer205@example.com,2022-08-27
+CUST00206,Customer 206,IN,32241,customer206@example.com,2023-09-11
+CUST00207,Customer 207,USA,47196,customer207@example.com,2022-11-21
+CUST00208,Customer 208,India,92960,customer208@example.com,2023-06-22
+CUST00209,Customer 209,United States,22240,customer209@example.com,2021-04-26
+CUST00210,Customer 210,India,50687,customer210@example.com,2021-04-05
+CUST00211,Customer 211,IN,36100,customer211@example.com,2020-10-28
+CUST00212,Customer 212,USA,16057,customer212@example.com,2021-05-16
+CUST00213,Customer 213,Canada,90120,customer213@example.com,2020-05-29
+CUST00214,Customer 214,Canada,64321,customer214@example.com,2023-07-13
+CUST00215,Customer 215,CA,35485,customer215@example.com,2024-01-11
+CUST00216,Customer 216,India,60328,customer216@example.com,2022-10-09
+CUST00217,Customer 217,Canada,41979,customer217@example.com,2020-10-29
+CUST00218,Customer 218,India,10726,customer218@example.com,2020-08-06
+CUST00219,Customer 219,IN,65724,customer219@example.com,2021-03-24
+CUST00220,Customer 220,US,77889,customer220@example.com,2022-08-09
+CUST00221,Customer 221,USA,83060,customer221@example.com,2021-05-25
+CUST00222,Customer 222,IN,25906,customer222@example.com,2022-07-23
+CUST00223,Customer 223,US,70901,customer223@example.com,2023-09-29
+CUST00224,Customer 224,CA,83259,customer224@example.com,2023-05-04
+CUST00225,Customer 225,United States,68008,customer225@example.com,2023-06-08
+CUST00226,Customer 226,IN,76162,customer226@example.com,2022-05-23
+CUST00227,Customer 227,IN,81810,customer227@example.com,2022-07-02
+CUST00228,Customer 228,US,72216,customer228@example.com,2022-07-10
+CUST00229,Customer 229,United States,42406,customer229@example.com,2023-07-29
+CUST00230,Customer 230,United States,78327,customer230@example.com,2022-09-19
+CUST00231,Customer 231,India,41358,customer231@example.com,2021-07-16
+CUST00232,Customer 232,Canada,20155,customer232@example.com,2024-01-01
+CUST00233,Customer 233,United States,40735,customer233@example.com,2021-07-10
+CUST00234,Customer 234,United States,51904,customer234@example.com,2023-01-11
+CUST00235,Customer 235,USA,28136,customer235@example.com,2020-11-04
+CUST00236,Customer 236,US,60205,customer236@example.com,2023-11-22
+CUST00237,Customer 237,US,38043,customer237@example.com,2020-05-11
+CUST00238,Customer 238,Canada,63424,customer238@example.com,2021-11-08
+CUST00239,Customer 239,CA,71069,customer239@example.com,2022-05-01
+CUST00240,Customer 240,USA,37110,customer240@example.com,2022-05-10
+CUST00241,Customer 241,Canada,86556,customer241@example.com,2023-11-25
+CUST00242,Customer 242,USA,85456,customer242@example.com,2022-02-18
+CUST00243,Customer 243,Canada,10772,customer243@example.com,2021-12-21
+CUST00244,Customer 244,United States,61116,customer244@example.com,2022-05-08
+CUST00245,Customer 245,CA,81582,customer245@example.com,2023-05-20
+CUST00246,Customer 246,US,73993,customer246@example.com,2021-03-25
+CUST00247,Customer 247,United States,67125,customer247@example.com,2022-09-21
+CUST00248,Customer 248,USA,60968,customer248@example.com,2021-11-19
+CUST00249,Customer 249,India,99016,customer249@example.com,2022-04-08
+CUST00250,Customer 250,India,31632,customer250@example.com,2022-08-15
+CUST00251,Customer 251,US,91560,customer251@example.com,2022-12-29
+CUST00252,Customer 252,USA,61645,customer252@example.com,2023-04-27
+CUST00253,Customer 253,CA,96900,customer253@example.com,2020-02-25
+CUST00254,Customer 254,USA,94246,customer254@example.com,2022-05-27
+CUST00255,Customer 255,US,70515,customer255@example.com,2021-01-07
+CUST00256,Customer 256,USA,44099,customer256@example.com,2022-02-15
+CUST00257,Customer 257,United States,37742,customer257@example.com,2022-07-20
+CUST00258,Customer 258,United States,54236,customer258@example.com,2022-02-15
+CUST00259,Customer 259,United States,65255,customer259@example.com,2021-05-31
+CUST00260,Customer 260,IN,20735,customer260@example.com,2022-08-21
+CUST00261,Customer 261,USA,80702,customer261@example.com,2020-04-16
+CUST00262,Customer 262,United States,39389,customer262@example.com,2023-08-24
+CUST00263,Customer 263,USA,95426,customer263@example.com,2020-03-23
+CUST00264,Customer 264,IN,14067,customer264@example.com,2021-05-21
+CUST00265,Customer 265,US,12671,customer265@example.com,2023-06-26
+CUST00266,Customer 266,US,41266,customer266@example.com,2020-09-15
+CUST00267,Customer 267,Canada,97747,customer267@example.com,2020-08-22
+CUST00268,Customer 268,CA,38569,customer268@example.com,2022-08-10
+CUST00269,Customer 269,India,43586,customer269@example.com,2022-01-25
+CUST00270,Customer 270,US,89415,customer270@example.com,2023-05-28
+CUST00271,Customer 271,India,25012,customer271@example.com,2020-12-01
+CUST00272,Customer 272,United States,24168,customer272@example.com,2023-03-31
+CUST00273,Customer 273,USA,50888,customer273@example.com,2023-03-25
+CUST00274,Customer 274,India,59192,customer274@example.com,2022-03-23
+CUST00275,Customer 275,India,35995,customer275@example.com,2020-06-04
+CUST00276,Customer 276,CA,92213,customer276@example.com,2021-05-12
+CUST00277,Customer 277,USA,49529,customer277@example.com,2023-11-02
+CUST00278,Customer 278,CA,25866,customer278@example.com,2023-03-05
+CUST00279,Customer 279,IN,15383,customer279@example.com,2021-12-12
+CUST00280,Customer 280,CA,66148,customer280@example.com,2023-09-16
+CUST00281,Customer 281,United States,19038,customer281@example.com,2022-11-02
+CUST00282,Customer 282,India,54725,customer282@example.com,2020-01-26
+CUST00283,Customer 283,IN,65057,customer283@example.com,2022-09-30
+CUST00284,Customer 284,USA,66822,customer284@example.com,2022-01-11
+CUST00285,Customer 285,India,70258,customer285@example.com,2023-12-19
+CUST00286,Customer 286,US,67080,customer286@example.com,2020-12-26
+CUST00287,Customer 287,India,78386,customer287@example.com,2023-08-25
+CUST00288,Customer 288,United States,90728,customer288@example.com,2023-01-07
+CUST00289,Customer 289,IN,73372,customer289@example.com,2022-08-10
+CUST00290,Customer 290,Canada,87656,customer290@example.com,2021-07-03
+CUST00291,Customer 291,United States,42177,customer291@example.com,2020-06-26
+CUST00292,Customer 292,United States,69087,customer292@example.com,2021-05-14
+CUST00293,Customer 293,IN,70910,customer293@example.com,2023-03-13
+CUST00294,Customer 294,CA,97580,customer294@example.com,2022-02-15
+CUST00295,Customer 295,United States,13761,customer295@example.com,2022-10-09
+CUST00296,Customer 296,IN,52600,customer296@example.com,2021-01-07
+CUST00297,Customer 297,Canada,37802,customer297@example.com,2021-12-27
+CUST00298,Customer 298,IN,43862,customer298@example.com,2021-11-28
+CUST00299,Customer 299,United States,88139,customer299@example.com,2023-12-07
+CUST00300,Customer 300,United States,82848,customer300@example.com,2020-01-21
+CUST00301,Customer 301,CA,35042,customer301@example.com,2020-06-24
+CUST00302,Customer 302,US,63271,customer302@example.com,2022-09-27
+CUST00303,Customer 303,CA,41499,customer303@example.com,2023-11-15
+CUST00304,Customer 304,Canada,94659,customer304@example.com,2023-12-28
+CUST00305,Customer 305,Canada,68743,customer305@example.com,2020-02-05
+CUST00306,Customer 306,USA,48566,customer306@example.com,2021-03-29
+CUST00307,Customer 307,Canada,41890,customer307@example.com,2021-09-19
+CUST00308,Customer 308,India,86225,customer308@example.com,2022-01-25
+CUST00309,Customer 309,Canada,82544,customer309@example.com,2022-12-23
+CUST00310,Customer 310,United States,65771,customer310@example.com,2023-02-01
+CUST00311,Customer 311,United States,56112,customer311@example.com,2023-12-10
+CUST00312,Customer 312,Canada,45509,customer312@example.com,2021-09-19
+CUST00313,Customer 313,United States,40217,customer313@example.com,2020-09-04
+CUST00314,Customer 314,India,35242,customer314@example.com,2021-10-08
+CUST00315,Customer 315,USA,80236,customer315@example.com,2023-11-14
+CUST00316,Customer 316,US,35105,customer316@example.com,2021-03-19
+CUST00317,Customer 317,India,73464,customer317@example.com,2021-07-20
+CUST00318,Customer 318,India,87278,customer318@example.com,2022-12-10
+CUST00319,Customer 319,CA,47093,customer319@example.com,2020-07-24
+CUST00320,Customer 320,IN,35443,customer320@example.com,2021-08-29
+CUST00321,Customer 321,US,57301,customer321@example.com,2021-01-02
+CUST00322,Customer 322,United States,11854,customer322@example.com,2023-12-21
+CUST00323,Customer 323,CA,26591,customer323@example.com,2021-07-15
+CUST00324,Customer 324,USA,17146,customer324@example.com,2023-02-07
+CUST00325,Customer 325,United States,26551,customer325@example.com,2023-07-30
+CUST00326,Customer 326,IN,74340,customer326@example.com,2020-07-29
+CUST00327,Customer 327,IN,11607,customer327@example.com,2023-03-21
+CUST00328,Customer 328,United States,71524,customer328@example.com,2022-09-07
+CUST00329,Customer 329,Canada,54657,customer329@example.com,2021-01-12
+CUST00330,Customer 330,USA,43092,customer330@example.com,2022-09-05
+CUST00331,Customer 331,USA,18564,customer331@example.com,2022-03-31
+CUST00332,Customer 332,Canada,19710,customer332@example.com,2023-03-27
+CUST00333,Customer 333,India,99974,customer333@example.com,2020-04-19
+CUST00334,Customer 334,US,29555,customer334@example.com,2023-02-26
+CUST00335,Customer 335,United States,21164,customer335@example.com,2021-05-23
+CUST00336,Customer 336,USA,83147,customer336@example.com,2022-05-02
+CUST00337,Customer 337,CA,88135,customer337@example.com,2023-06-20
+CUST00338,Customer 338,US,78494,customer338@example.com,2022-02-18
+CUST00339,Customer 339,Canada,68028,customer339@example.com,2021-08-31
+CUST00340,Customer 340,IN,87139,customer340@example.com,2022-05-28
+CUST00341,Customer 341,United States,84531,customer341@example.com,2023-06-25
+CUST00342,Customer 342,USA,89905,customer342@example.com,2020-07-22
+CUST00343,Customer 343,IN,37235,customer343@example.com,2023-07-05
+CUST00344,Customer 344,US,44687,customer344@example.com,2023-09-14
+CUST00345,Customer 345,USA,30585,customer345@example.com,2021-05-06
+CUST00346,Customer 346,US,82350,customer346@example.com,2020-06-02
+CUST00347,Customer 347,US,10350,customer347@example.com,2022-04-16
+CUST00348,Customer 348,Canada,87832,customer348@example.com,2022-08-20
+CUST00349,Customer 349,United States,14278,customer349@example.com,2021-04-19
+CUST00350,Customer 350,United States,47056,customer350@example.com,2023-12-10
+CUST00351,Customer 351,IN,69510,customer351@example.com,2020-05-25
+CUST00352,Customer 352,India,40595,customer352@example.com,2021-06-25
+CUST00353,Customer 353,IN,91927,customer353@example.com,2023-04-22
+CUST00354,Customer 354,India,35928,customer354@example.com,2022-05-20
+CUST00355,Customer 355,USA,81376,customer355@example.com,2021-04-05
+CUST00356,Customer 356,India,29528,customer356@example.com,2021-06-28
+CUST00357,Customer 357,IN,28643,customer357@example.com,2020-05-26
+CUST00358,Customer 358,USA,31747,customer358@example.com,2021-09-21
+CUST00359,Customer 359,CA,84607,customer359@example.com,2021-08-14
+CUST00360,Customer 360,Canada,26299,customer360@example.com,2022-08-17
+CUST00361,Customer 361,India,49857,customer361@example.com,2023-12-04
+CUST00362,Customer 362,Canada,45683,customer362@example.com,2022-10-21
+CUST00363,Customer 363,CA,74722,customer363@example.com,2022-06-15
+CUST00364,Customer 364,USA,88385,customer364@example.com,2020-03-22
+CUST00365,Customer 365,Canada,52247,customer365@example.com,2023-05-21
+CUST00366,Customer 366,United States,13390,customer366@example.com,2020-07-06
+CUST00367,Customer 367,US,98381,customer367@example.com,2023-03-24
+CUST00368,Customer 368,CA,12719,customer368@example.com,2023-10-08
+CUST00369,Customer 369,IN,45325,customer369@example.com,2023-03-26
+CUST00370,Customer 370,USA,32962,customer370@example.com,2022-08-21
+CUST00371,Customer 371,CA,95394,customer371@example.com,2022-06-24
+CUST00372,Customer 372,United States,33788,customer372@example.com,2023-04-13
+CUST00373,Customer 373,Canada,93202,customer373@example.com,2022-10-04
+CUST00374,Customer 374,USA,71605,customer374@example.com,2021-12-13
+CUST00375,Customer 375,Canada,53687,customer375@example.com,2021-10-19
+CUST00376,Customer 376,India,23710,customer376@example.com,2020-11-25
+CUST00377,Customer 377,United States,63955,customer377@example.com,2023-11-21
+CUST00378,Customer 378,Canada,47777,customer378@example.com,2023-09-18
+CUST00379,Customer 379,Canada,82102,customer379@example.com,2020-03-16
+CUST00380,Customer 380,Canada,21542,customer380@example.com,2021-10-06
+CUST00381,Customer 381,United States,52372,customer381@example.com,2020-08-25
+CUST00382,Customer 382,IN,62976,customer382@example.com,2022-11-19
+CUST00383,Customer 383,IN,10150,customer383@example.com,2023-09-08
+CUST00384,Customer 384,IN,81118,customer384@example.com,2022-08-04
+CUST00385,Customer 385,Canada,17104,customer385@example.com,2021-01-19
+CUST00386,Customer 386,CA,57419,customer386@example.com,2023-06-29
+CUST00387,Customer 387,IN,75338,customer387@example.com,2023-07-04
+CUST00388,Customer 388,Canada,16764,customer388@example.com,2021-02-20
+CUST00389,Customer 389,United States,81987,customer389@example.com,2020-09-25
+CUST00390,Customer 390,United States,67424,customer390@example.com,2023-12-01
+CUST00391,Customer 391,Canada,25915,customer391@example.com,2020-02-29
+CUST00392,Customer 392,India,89806,customer392@example.com,2021-05-05
+CUST00393,Customer 393,India,30758,customer393@example.com,2021-09-28
+CUST00394,Customer 394,CA,11792,customer394@example.com,2023-02-05
+CUST00395,Customer 395,Canada,22217,customer395@example.com,2021-04-05
+CUST00396,Customer 396,IN,24871,customer396@example.com,2022-08-03
+CUST00397,Customer 397,USA,94896,customer397@example.com,2020-11-11
+CUST00398,Customer 398,Canada,48254,customer398@example.com,2022-11-08
+CUST00399,Customer 399,India,45838,customer399@example.com,2022-04-30
+CUST00400,Customer 400,IN,73242,customer400@example.com,2022-08-25
+CUST00401,Customer 401,US,69871,customer401@example.com,2023-02-02
+CUST00402,Customer 402,US,60277,customer402@example.com,2021-01-25
+CUST00403,Customer 403,CA,76616,customer403@example.com,2020-10-06
+CUST00404,Customer 404,IN,19150,customer404@example.com,2021-07-19
+CUST00405,Customer 405,IN,64387,customer405@example.com,2021-11-27
+CUST00406,Customer 406,IN,76550,customer406@example.com,2021-07-01
+CUST00407,Customer 407,IN,10336,customer407@example.com,2021-08-02
+CUST00408,Customer 408,India,49132,customer408@example.com,2023-04-17
+CUST00409,Customer 409,CA,96499,customer409@example.com,2022-09-29
+CUST00410,Customer 410,IN,29476,customer410@example.com,2022-07-03
+CUST00411,Customer 411,CA,73483,customer411@example.com,2021-12-07
+CUST00412,Customer 412,United States,82340,customer412@example.com,2023-01-17
+CUST00413,Customer 413,Canada,69682,customer413@example.com,2021-10-21
+CUST00414,Customer 414,IN,34727,customer414@example.com,2023-11-29
+CUST00415,Customer 415,US,84946,customer415@example.com,2022-02-23
+CUST00416,Customer 416,US,63841,customer416@example.com,2020-03-30
+CUST00417,Customer 417,United States,71993,customer417@example.com,2023-12-15
+CUST00418,Customer 418,IN,59968,customer418@example.com,2022-03-01
+CUST00419,Customer 419,India,95461,customer419@example.com,2020-11-07
+CUST00420,Customer 420,Canada,14852,customer420@example.com,2020-09-15
+CUST00421,Customer 421,CA,87356,customer421@example.com,2021-11-10
+CUST00422,Customer 422,IN,23154,customer422@example.com,2022-06-20
+CUST00423,Customer 423,USA,78937,customer423@example.com,2022-07-24
+CUST00424,Customer 424,USA,28894,customer424@example.com,2022-04-19
+CUST00425,Customer 425,IN,95823,customer425@example.com,2020-11-12
+CUST00426,Customer 426,USA,71537,customer426@example.com,2021-06-26
+CUST00427,Customer 427,United States,91691,customer427@example.com,2023-11-19
+CUST00428,Customer 428,Canada,95175,customer428@example.com,2020-06-13
+CUST00429,Customer 429,IN,53065,customer429@example.com,2023-10-13
+CUST00430,Customer 430,IN,79942,customer430@example.com,2022-02-17
+CUST00431,Customer 431,United States,92155,customer431@example.com,2024-01-11
+CUST00432,Customer 432,IN,73956,customer432@example.com,2023-01-13
+CUST00433,Customer 433,USA,90931,customer433@example.com,2020-05-20
+CUST00434,Customer 434,US,92727,customer434@example.com,2023-11-02
+CUST00435,Customer 435,United States,39817,customer435@example.com,2020-07-04
+CUST00436,Customer 436,Canada,22903,customer436@example.com,2023-07-21
+CUST00437,Customer 437,India,23173,customer437@example.com,2022-06-27
+CUST00438,Customer 438,US,49251,customer438@example.com,2020-02-29
+CUST00439,Customer 439,USA,52516,customer439@example.com,2020-04-24
+CUST00440,Customer 440,United States,56984,customer440@example.com,2022-02-06
+CUST00441,Customer 441,Canada,29080,customer441@example.com,2021-05-15
+CUST00442,Customer 442,CA,64008,customer442@example.com,2023-03-05
+CUST00443,Customer 443,India,33600,customer443@example.com,2020-12-14
+CUST00444,Customer 444,US,20350,customer444@example.com,2023-06-02
+CUST00445,Customer 445,IN,60140,customer445@example.com,2023-06-23
+CUST00446,Customer 446,India,41566,customer446@example.com,2022-10-16
+CUST00447,Customer 447,CA,28758,customer447@example.com,2021-04-20
+CUST00448,Customer 448,Canada,93611,customer448@example.com,2021-06-04
+CUST00449,Customer 449,Canada,43466,customer449@example.com,2023-09-27
+CUST00450,Customer 450,USA,70981,customer450@example.com,2021-08-12
+CUST00451,Customer 451,India,81643,customer451@example.com,2020-11-19
+CUST00452,Customer 452,USA,67898,customer452@example.com,2021-12-08
+CUST00453,Customer 453,CA,49210,customer453@example.com,2023-08-01
+CUST00454,Customer 454,Canada,42780,customer454@example.com,2022-07-24
+CUST00455,Customer 455,IN,49599,customer455@example.com,2021-02-11
+CUST00456,Customer 456,Canada,73335,customer456@example.com,2020-08-06
+CUST00457,Customer 457,US,59986,customer457@example.com,2023-03-17
+CUST00458,Customer 458,United States,85341,customer458@example.com,2021-08-28
+CUST00459,Customer 459,India,48696,customer459@example.com,2020-02-14
+CUST00460,Customer 460,IN,96275,customer460@example.com,2022-03-21
+CUST00461,Customer 461,United States,11061,customer461@example.com,2023-03-05
+CUST00462,Customer 462,IN,99889,customer462@example.com,2020-04-10
+CUST00463,Customer 463,CA,75107,customer463@example.com,2021-08-09
+CUST00464,Customer 464,IN,40162,customer464@example.com,2023-05-28
+CUST00465,Customer 465,IN,56179,customer465@example.com,2021-03-24
+CUST00466,Customer 466,India,34920,customer466@example.com,2023-06-25
+CUST00467,Customer 467,United States,98835,customer467@example.com,2024-01-16
+CUST00468,Customer 468,IN,96400,customer468@example.com,2023-10-26
+CUST00469,Customer 469,IN,27927,customer469@example.com,2023-07-10
+CUST00470,Customer 470,USA,92242,customer470@example.com,2023-08-16
+CUST00471,Customer 471,USA,50492,customer471@example.com,2022-06-21
+CUST00472,Customer 472,USA,85965,customer472@example.com,2022-01-17
+CUST00473,Customer 473,India,27224,customer473@example.com,2020-07-03
+CUST00474,Customer 474,United States,52823,customer474@example.com,2022-04-30
+CUST00475,Customer 475,US,36318,customer475@example.com,2020-09-27
+CUST00476,Customer 476,IN,80701,customer476@example.com,2022-01-19
+CUST00477,Customer 477,CA,75771,customer477@example.com,2021-07-12
+CUST00478,Customer 478,IN,31567,customer478@example.com,2021-06-10
+CUST00479,Customer 479,IN,73156,customer479@example.com,2021-08-27
+CUST00480,Customer 480,India,54396,customer480@example.com,2020-08-23
+CUST00481,Customer 481,Canada,19869,customer481@example.com,2020-10-15
+CUST00482,Customer 482,IN,39571,customer482@example.com,2023-10-17
+CUST00483,Customer 483,India,98395,customer483@example.com,2022-03-24
+CUST00484,Customer 484,IN,83048,customer484@example.com,2022-01-19
+CUST00485,Customer 485,USA,61717,customer485@example.com,2020-01-29
+CUST00486,Customer 486,United States,80329,customer486@example.com,2020-09-10
+CUST00487,Customer 487,Canada,58311,customer487@example.com,2023-10-09
+CUST00488,Customer 488,India,98125,customer488@example.com,2021-06-20
+CUST00489,Customer 489,CA,59941,customer489@example.com,2023-07-31
+CUST00490,Customer 490,United States,24201,customer490@example.com,2023-10-14
+CUST00491,Customer 491,US,71797,customer491@example.com,2020-02-21
+CUST00492,Customer 492,CA,83584,customer492@example.com,2021-11-02
+CUST00493,Customer 493,CA,39015,customer493@example.com,2023-08-19
+CUST00494,Customer 494,USA,93283,customer494@example.com,2022-08-08
+CUST00495,Customer 495,India,49608,customer495@example.com,2023-08-22
+CUST00496,Customer 496,Canada,25292,customer496@example.com,2020-10-13
+CUST00497,Customer 497,USA,14877,customer497@example.com,2021-09-15
+CUST00498,Customer 498,Canada,25220,customer498@example.com,2020-07-18
+CUST00499,Customer 499,US,80457,customer499@example.com,2020-10-04
+CUST00500,Customer 500,Canada,69459,customer500@example.com,2022-01-29
+CUST00031,Customer 31,CA,93227,customer31@example.com,2020-12-16
+CUST00032,Customer 32,CA,42087,customer32@example.com,2020-11-30
